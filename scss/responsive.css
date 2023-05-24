@@ -38,7 +38,7 @@
     text-align: center;
   }
   .all-pages .sidebar .sidebar-left {
-    height: 67vh;
+    height: 100vh;
     margin-bottom: 20px;
     padding-top: 80px;
   }
@@ -76,10 +76,10 @@
     width: 52%;
   }
   .all-pages .sidebar .all-bg-color {
-    height: 88vh;
+    height: 100vh;
   }
   .all-pages .secnad-section-all .sidebar-left {
-    height: 70vh;
+    height: 100vh;
     margin-bottom: 20px;
     padding-top: 80px;
   }
@@ -90,7 +90,7 @@
     padding: 10px;
   }
   .all-pages .thard-section-all .sidebar-left {
-    height: 67vh;
+    height: 100vh;
     margin-bottom: 20px;
     padding-top: 80px;
   }
@@ -101,7 +101,7 @@
     height: 79vh;
   }
   .all-pages .four-section-all .sidebar-left {
-    height: 70vh;
+    height: 100vh;
     margin-bottom: 20px;
     padding-top: 80px;
   }
@@ -116,7 +116,7 @@
     padding: 6px;
   }
   .all-pages .five-section-all .sidebar-left {
-    height: 68vh;
+    height: 100vh;
     margin-bottom: 20px;
     padding-top: 80px;
   }
@@ -130,7 +130,7 @@
     padding: 35px 15px 100px 15px;
   }
   .all-pages .five-section-all .all-bg-color2 {
-    height: 99vh;
+    height: 136vh;
   }
   .all-pages .five-section-all .all-bg-color2 .all-right .about-in .form-section h2 {
     padding-top: 36px;
